@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-blue-500 w-full py-4 text-white text-center">
       <p>
         &copy; 2024 Airbnb Web Scraper by{" "}
-        <a href="https://mihailgaberov.com">Mihail Gaberov</a>{" "}
+        <a href="https://mihailgaberov.com">Ben</a>{" "}
       </p>
     </footer>
   );
